@@ -1,0 +1,26 @@
+{
+  "name": "Lucille Armstrong",
+  "age": 64,
+  "address": {
+    "street": "Evota Center",
+    "city": "Ozalejoro",
+    "state": "AK",
+    "zip": "55438"
+  },
+  "contact": {
+    "phone": "(922) 484-7452",
+    "servicePhone": "800121531"
+  },
+  "birthday": "1970-07-18T01:07:48.789Z",
+  "ip": "221.137.107.78",
+  "foo": "bar",
+  "profile": {
+    "about": "Felca potton nirid cedzarmub rosoleha gehnu mizun idofuzi titmaave rokab neuti fudaggu nuuruti jac kaiwab odab. Fob upifoer lejwohhe da kah jo giggakni todel paw tum po iho cuoba se. Gafal vapaj ehemutiva pospitede hu hoku wujewom kuhez pabe lisaz awotu lofel ev.",
+    "bio": "Du sobir fah melfaeji afogal hirodwi opoci afgaak se beis uva ew ipuru. Vef rir wihjuhme it cazkojgew dogrebi nefhiw azkopak fuwmip da nazri ukvimep jap ehamaj hi nolpolkan. Otwi lo uv tosme fema kogalrow cezoud fimjofgoj butaw lajva uvova ibu ug obuses fab askus."
+  },
+  "apiKey": "cbe721d582f6df45b8b9ecc6f1107c21e7ef9e9a596abad44eab4ed19aab3660",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
