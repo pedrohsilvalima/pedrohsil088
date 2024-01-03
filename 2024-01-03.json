@@ -1,0 +1,26 @@
+{
+  "name": "Lucile Knight",
+  "age": 40,
+  "address": {
+    "street": "Nevug Avenue",
+    "city": "Gaktepjuj",
+    "state": "DC",
+    "zip": "39455"
+  },
+  "contact": {
+    "phone": "(719) 832-7338",
+    "servicePhone": "800254488"
+  },
+  "birthday": "1986-02-08T22:40:18.524Z",
+  "ip": "6.137.52.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Takodca mat esnacmap lo fi wewnac solpew vumihev lubo fafohi mizrupa vubapoje kefepiz. Heitu tu go liwuv infa navo wu pacva odulekod ehu adalu okomewwu arozehzew ha wutaku hupanhe. Efapi lulahiv new ho zekfujze heicile jo zok le luvewozem uto wazcemo ufo. Lamitif agaimagu hus ecsima lepi fawokdoj tikjuuvi li kog nedaw gacsubsir mikan pozje bi evu vuz luvobagu.",
+    "bio": "Awmaoku sipa umugo ebjasbe do jahjunir bemralu obre kip ra vivnik mapgehvev um bolak ir. Hop bis iresa hikilgi pos po suhsuhi sudi welciwas er nu cov tegule nis. Te hiw mulovuj omi jo ovej buvcic bajuhi faruhas zofac wi hil mihebo ohuvopad une he kedan le."
+  },
+  "apiKey": "67eeb7996618f78936910fe8378e2d2502b432a22f3b188b2a9ca06afdc3f543",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
