@@ -1,0 +1,26 @@
+{
+  "name": "Sadie Potter",
+  "age": 51,
+  "address": {
+    "street": "Kemoc Road",
+    "city": "Zawita",
+    "state": "MO",
+    "zip": "70138"
+  },
+  "contact": {
+    "phone": "(781) 496-5678",
+    "servicePhone": "800863695"
+  },
+  "birthday": "1987-10-04T09:22:42.738Z",
+  "ip": "209.147.33.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Puono dib wije zuwnorij wet eruso bezo coj ufnum fugozo ki codmor ki afiku hupet vorma. Rifkowug cowi epoj bewlu vomwojja wujacla we nog jegdoza bajo uz galkotah cibriwer oparu. Gac mo be camjog aketuba eruhepij sejraum da somuju po lo jenuc somib zuiweik vufsaj.",
+    "bio": "Fo helih reigwij fojihku ku eda deorozuj hojavob rufbim hovekis gagus culsipa vuweaju fed meb licne suflolif bemihi. Onjag cot mofheg koovfur huz bo luthinu kiwip ovcifute zugubhe ulawal me hi bac isutazi riholu. Tinfi efu sojar nesez dicus mo jo kogvoh pigdu res avtipe ugki gurdajuci dienu zetdaaf emviite vozecib hacage. Cuzdogaz na gatuw kegneme luwci peje olfiw wa ibi vi usoke fu gamum vik."
+  },
+  "apiKey": "fa0cfd971096452593b489c929a32fcdac6cf95c37c54be397eff1b82854224c",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
