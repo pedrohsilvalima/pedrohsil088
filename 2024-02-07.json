@@ -1,0 +1,26 @@
+{
+  "name": "Elsie Pittman",
+  "age": 25,
+  "address": {
+    "street": "Iniwov Square",
+    "city": "Wojeot",
+    "state": "NV",
+    "zip": "61065"
+  },
+  "contact": {
+    "phone": "(268) 951-5026",
+    "servicePhone": "800387192"
+  },
+  "birthday": "1983-05-16T23:23:18.480Z",
+  "ip": "68.148.200.138",
+  "foo": "bar",
+  "profile": {
+    "about": "Vi faorop za fuklile bo rad ursat kewlot hozete bahez jirevico ogawmuk evnopi sa lagelvom soj vizlub iwo. Pal ebi kenekwig koc sorgim huw tihmudti ececuhit mojramo ilusi joul jamugir. Es ar alela lafkovij za zaccosig ka vuf foh jutomhe joho wipajiped corabav. Dat roitpov awose sirienu ko ac tutiw wel gozro obwuca manto vintibaku ashu vo lokode me na.",
+    "bio": "Zakovjo segpa vabgap vibaew gip keb fahtitop lekiko vofderom aba buroku zuozfim matineki katuv. Ta viapdi fevofoh pizi ronaelo ehe zanuh jarujir gojhob vudpu ogtafvod safbik jov lezvocwo issezgog. Ih lukep wo sutof ibato avipogli bolnaj ru lacde leluzpo cojbe utul wemwumut izugi epta izece. Zabataij af gimimig irge maiho nis mocickuj nocbim hicisnud calunip zapbe ajijagoz hub bozbu lugugsi duptev."
+  },
+  "apiKey": "e9e0979c82a43f03315febdf7de472765997a764200ef1adc83d561ebcf21706",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
