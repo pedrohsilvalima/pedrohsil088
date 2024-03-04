@@ -1,0 +1,26 @@
+{
+  "name": "Rosie Brown",
+  "age": 29,
+  "address": {
+    "street": "Bikeg Way",
+    "city": "Aderabru",
+    "state": "RI",
+    "zip": "89838"
+  },
+  "contact": {
+    "phone": "(274) 872-7378",
+    "servicePhone": "800883128"
+  },
+  "birthday": "1971-07-22T23:38:29.957Z",
+  "ip": "242.53.143.146",
+  "foo": "bar",
+  "profile": {
+    "about": "Sod hirrowo ut vompib atoegu kuufapur zijopu tocnem gofiime peglerofe jeme naspu lu. Og pu eho oruab je cekwado jopa zotizpu sat tur lakpus ufa ju duhezsu dopfo jotpedpur. Wid ipe vopfudo kifkowtej duw vo fek muspaj ewuvonvuw muwmes licbu efubi. Gotef kepode lu kazfuhmo sagfo fuvugcu vakinod aboloh ne huciz ced bawsaci joezuv te iganer te tatemluw jefenoj. Lat kaejuek pali hapgo nesap pi ri fuhuw mupco jalpup me ujoike raeli fataha to loon.",
+    "bio": "Pejalo lapewi fuba wuvvej duk jevarwut duuwjam pihi za rumet utausig nucpegjoc de. Tug fotati ba miob amiwi lezri tewi rog cosja sujavwa zeuz egi ki su hugtaelo ohbe sesamul rubig. Tivwoh ofje if pigul ed bisvijdo ki ruguj gapawjij teugpa nun ato um. Zoal udba vana femham med una sonejkih fijo ov lenivro tizokpe aseojocu pedil zu pipil fusam kecodim. Ginotovuv tein ifwajgi zagoco fadbi gas mam lel gotheun fodildu hadniw dob sisohevi ji misnid des uji ibiiv. Celri zeclob fid iwioz ajovura cicu ibipohbaj cos apuwi niz do wejgusa solu kihujsi ho uv ces cu. Tencako gicce niwalsir pirikis heowu zetuc juuno mal ajpuvkam asluwsor puksaw ijicuwuh nulru vutbugfed."
+  },
+  "apiKey": "060912b66c6466ffd83341cb5b9db0d4883986583e804305edc191b037a08933",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
