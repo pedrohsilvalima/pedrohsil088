@@ -1,0 +1,26 @@
+{
+  "name": "Mae Schmidt",
+  "age": 59,
+  "address": {
+    "street": "Mereh Grove",
+    "city": "Mujigo",
+    "state": "AZ",
+    "zip": "33154"
+  },
+  "contact": {
+    "phone": "(969) 734-6509",
+    "servicePhone": "800393771"
+  },
+  "birthday": "1959-05-31T04:45:52.581Z",
+  "ip": "185.221.125.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Gor bo ho danidju ic mi pizoic piili su hinbuf iwtu ropegduf. Noet keguju latageb zuetvuf ekjuf rahaszu kanuhi logabzir ce cor biirinoj mevdasuv enhij guwka. Lisne lohtavac jazijuud difapdot hapusunu omouw kowahba epa jup doj zilursez wuopa lolehma juna kozoti heotupuz. Fu fedeftu heriewu kul elseg zalejliv mowomfe be gurralco feg to zurnicrot hezrota zubepes pevuboco bovcin. Nimkag ettiscel joz ok hoisi pejobwuh musujpih peran ji anrob ko il mer vuc bismu og.",
+    "bio": "Echut zawoaju cuadib talculapo tuw cilisbus uvjep wirpuhe etaro udjo nirop ubi nimhehar uc evkos vionu asu we. Bekifjow gudrin utoraec na rohiv mutlo noplaoz ike surev kiedfad wivehun mazfuwbak ifguf gigub. Nadfa fomursod adu zefru gehuker fevsimge ica hewbilibo vekge abadak ifvicjan tasredgej wowtos rujesis omin piav juc."
+  },
+  "apiKey": "fe8de4f4aa29439bd7ecebf8c40ea3d0f281324687921a8f172981493948f6ca",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
