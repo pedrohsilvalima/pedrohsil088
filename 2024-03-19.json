@@ -1,0 +1,26 @@
+{
+  "name": "James Cruz",
+  "age": 28,
+  "address": {
+    "street": "Pawnaf Path",
+    "city": "Kuhkojo",
+    "state": "SC",
+    "zip": "34157"
+  },
+  "contact": {
+    "phone": "(979) 789-6800",
+    "servicePhone": "800142698"
+  },
+  "birthday": "1997-07-18T07:27:42.713Z",
+  "ip": "195.105.162.68",
+  "foo": "bar",
+  "profile": {
+    "about": "El waodicec lagpon wutinar vibi fedco wekilsir vi kojofseg neelere dam kare uheno iri ru pokhuze ovo. Dutri ge fefu puvwi lo he fiwwasul bedebona ceoco dafbirmel ochon furaf po buctot cokem. Aresu odab soulne gob cek ikcat hirwimda ivba ez huf dezumab ug zilhi efu.",
+    "bio": "Jazjibaz du mobovok gavah tic id tekiwef ureabohuc wojgola gerar eso ifemifu gi gi udoifmi leicu jeaho hiv. Roewuke jipafnu polsehtuf me ferepegi fa ciba lukpi gugoh fasejke biwow kib boane. Nakubaha fovoh ighiupe udu fehpazhur buwjejvih zuotu po si et oga ikobiar zasanfe ade badsad godanifi."
+  },
+  "apiKey": "374090ed7d2639f0c6391a167c00ca73a09bf98f4ea5e0a05f568e9857212248",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
