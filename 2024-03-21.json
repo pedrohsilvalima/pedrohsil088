@@ -1,0 +1,26 @@
+{
+  "name": "Mollie Flores",
+  "age": 23,
+  "address": {
+    "street": "Hude Highway",
+    "city": "Geifofu",
+    "state": "DC",
+    "zip": "78438"
+  },
+  "contact": {
+    "phone": "(254) 916-9491",
+    "servicePhone": "800249889"
+  },
+  "birthday": "1997-02-04T09:11:35.230Z",
+  "ip": "76.141.48.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Si dukic rawaheto cihe hid uv do ij iri mo rodgo zavgati malmibfef em gagmuzes. Uztalfa fuoh su hu anwo ara etopu omo pivpi volaozo vevcih saugoni fo mu bugbipum gikguvon buif. Mihetkar dibda vu cek kajwof nus aze ceraci zecikkir supwirko fivtudva vikuz pogoj.",
+    "bio": "Hiwkik ubu fo pitcugol lebupu umku ewlanow ulamawgi ikiwep wenvig tomus mubgev iberiahi sajeor. Wor hunjon wojzowu piki dutub noju jon nocega ma tofpijso zojejvuf raznu ji ic ujidi. Ko ito ri vuhlewume limbaktaz wa kunhav zujuj ne noihokaf maihege boswer akihotab. Ob nuka bu petweh buzog di tul lefe jivhuit so kufda kiwage nekeizi giedsin."
+  },
+  "apiKey": "052b5819b0efd0119055476cabdf8fa2f33c0251888bf411ebb7a12dccb79329",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
