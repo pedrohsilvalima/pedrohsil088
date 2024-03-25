@@ -1,0 +1,26 @@
+{
+  "name": "Leon Gordon",
+  "age": 43,
+  "address": {
+    "street": "Makdi Glen",
+    "city": "Zikajsil",
+    "state": "TX",
+    "zip": "63961"
+  },
+  "contact": {
+    "phone": "(772) 796-2397",
+    "servicePhone": "800651643"
+  },
+  "birthday": "1981-10-19T13:49:15.351Z",
+  "ip": "148.139.77.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Gaje fi iro dumda zob mi se remkuz ijofumke jojmisez lositec po. Eclo dumva buz miseba unatag mifuztuv covoti vofuzaizu bus uvovaok mimfeg fubili wonumi cipiw. Osejarbif gujponej lucu ta viznus voabapid em ulajsi moptiv loiv va jupmamo mekgekar.",
+    "bio": "Rite rit go olbuon ciosa ahdov fodarat ik gogaevo lop kewwun miluwmi lebekhov. Hibadalem pahubkud pe bokguvuh megme fo arfu umeepa siware vodami evujarpa reja lefib darrug ledoc le zogdik def. Adocu haznor jivoka ug ejneh cu habcurraf lohsoaj az ud nuga lar lipajle okuvel baga wuamape zipu."
+  },
+  "apiKey": "5152ae9c3183bc384222936f3e04bf23cf12846817e18160d68c2af0543d5200",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibia Dollar"
+  }
+}
