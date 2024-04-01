@@ -1,0 +1,26 @@
+{
+  "name": "Lillie Steele",
+  "age": 28,
+  "address": {
+    "street": "Jeggek Circle",
+    "city": "Rerelral",
+    "state": "SD",
+    "zip": "54425"
+  },
+  "contact": {
+    "phone": "(517) 676-1485",
+    "servicePhone": "800844342"
+  },
+  "birthday": "1987-04-21T20:41:02.720Z",
+  "ip": "249.208.92.169",
+  "foo": "bar",
+  "profile": {
+    "about": "Ahec cebo wu vov isaebvup wechub of as ic uciwa si wewoc pa duku ubo vu kojinut hobzik. Tohkiv impiko ojuta oduser goow aburerjo zel wad ipi itovuj tiusa gerbes egebaj. Fa cakopte od tohenmo itazujve ca vaz satuzap ref fifohe wuz ecietu haahtuc tonop epuje wuid rede dak.",
+    "bio": "Ciwoika kat jefzovsac goves woperdir simevuab emu henod cefbo lemuce cogarilo dufbi pasafoga. Wezogij epda fuzmo giwuvwe ho agvur mitice leftiuta wa ijubiluga pavili la kuuc. Lioh ko fubi ogwini migawo boldad wiociho ge cidwe reh tapa ja mez emi ca vohnogo onjukno ogudeso. Len esoobago mekom coamu unfewame itub ih duon jobaco wangakek uromuha jo wa ribi pe ril sogaden. Hes mof hosuwa koniri nihito madev wo dunto el damewna sud lak davcod adejole ciap idfurot zet azima. Upbiwuh foh unuleca wi sumo waidi pikebu dueda liptav peba manev ga vig cobi odogutsen dad fohhe."
+  },
+  "apiKey": "86e0c3b2fbc5ab0ed34fbbc82d4a9525defd6f6779b30d6540178ddd6a803481",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
