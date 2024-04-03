@@ -1,0 +1,26 @@
+{
+  "name": "Hester Parker",
+  "age": 49,
+  "address": {
+    "street": "Mikap Park",
+    "city": "Ramwedvu",
+    "state": "DE",
+    "zip": "94825"
+  },
+  "contact": {
+    "phone": "(465) 698-3075",
+    "servicePhone": "800989341"
+  },
+  "birthday": "1969-05-13T18:04:45.231Z",
+  "ip": "57.163.170.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Ziji hazzej fuh gumsicuv melipjal weril tuk culwi sijra zutiku akoik cilpu. Rem metatak oro etavas paji nar gal macladiw cignefuj ancewtuj dumu hokuv fujbuade dezta ziv ag ju. Lesge me achokuf apo pe izezo sa dor pim woodkag ju sal newre kemije wo fanmu. Elafarmi heliticu gi kafobo licniv vapgijoc po cori to zuw kol fut. Tibih jihuili sifted ac nuttumoga ata bilub rehlub za iwi ham wur sizmoac ga fub. Puvi ur gur bol tonunu joazu ma cagame niluz ni ves demaf ovoroha. Isuonave jitoc lubajuku julporhud ir deghuv wuvgu div ewhar zofi veowdi copekadi te igugerab vuz ofluvuf numlihot.",
+    "bio": "Fatu ni guh nu bejwu maok mifekaij pabnedtad bun haf teekuuwa ca iterobo vutpejzol jezum rolrohab evhagjan. Sijambo kacobha ij zop zauvo zajufot misotubo wahu das vo vubipiz vih ver heb bujej. Rilunan zis ojiaviaza lun nucazuso disanu iguovsut beaku pusrabbok if fual bakowpe naestiz vivaneh."
+  },
+  "apiKey": "03d6f6b009df2be6684e738d923e2af3df8c15108afb97922dabc3a5c931d9b1",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
