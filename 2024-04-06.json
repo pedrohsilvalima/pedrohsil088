@@ -1,0 +1,26 @@
+{
+  "name": "Mae Brooks",
+  "age": 34,
+  "address": {
+    "street": "Papebe Park",
+    "city": "Inipimil",
+    "state": "MI",
+    "zip": "89585"
+  },
+  "contact": {
+    "phone": "(347) 469-3941",
+    "servicePhone": "800593336"
+  },
+  "birthday": "2004-05-13T19:45:06.564Z",
+  "ip": "159.112.145.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Gevsatsug pasca favaror ehkehve ociaje meabases kacup oh ra ji gejkaej god. Mokegu deses butsopfaf pi cincofuh hadgi puha nilinal otajuno ik raz sovugmi. Ce ifkina zikevo uzadu de deh ikamaepa lalovih zu egu ede div rorhe us ufaeldah.",
+    "bio": "Hehit tah omwa gabde naha bo vellarso vez ekemoc ehidin roc tob so wig ro zadibtoh ivrus fiawe. Rucbebek palmi niteri mawaon hu napimip fep rufofug zatlag ju upvidba benpoljob ik zilgir napa sewnon. Usilizo lotmep mil zokwefgan rimvo cedamaw tirbuvfi nu oh ekehazpik huvaluko neufeudu as mesicju bica vafzu ukoko dezlakra."
+  },
+  "apiKey": "8fe2a8671639643b3452467a49edfbe17b816d7a30bde148eae7bf0e961104b2",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
